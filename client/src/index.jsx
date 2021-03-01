@@ -3,7 +3,7 @@ const {React} = window;
 
 const {ReactDOM} = window;
 import Module from './Module.jsx';
-import request from './request.js'
+// import request from './request.js'
 
 
 // request.getAllData(1, (data) => {
